@@ -1,0 +1,12 @@
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\bin\Debug\HopistalManagement.exe.config
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\bin\Debug\HopistalManagement.exe
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\bin\Debug\HopistalManagement.pdb
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\obj\Debug\HopistalManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\obj\Debug\HopistalManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\obj\Debug\HopistalManagement.FormDangNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\obj\Debug\HopistalManagement.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\obj\Debug\HopistalManagement.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\obj\Debug\HopistalManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\obj\Debug\HopistalManagement.exe
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\obj\Debug\HopistalManagement.pdb
+C:\Users\Admin\OneDrive\Máy tính\HK5-2023\DBMS\FinalProject\HopistalManagement\HopistalManagement\obj\Debug\HopistalManagement.FormDangKy.resources
